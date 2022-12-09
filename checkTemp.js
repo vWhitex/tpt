@@ -1,5 +1,4 @@
 function checkTemp(p1){
-    // hey timo :D
 
     if(p1<20){
         return "-1"
